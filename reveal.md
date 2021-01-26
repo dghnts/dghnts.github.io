@@ -27,9 +27,9 @@ $2^2$，$3^4$などで数字が表されたときの右上の数字
 $2^2$なら3，$3^4$なら4が指数です。今日はこの指数の性質について復習と，問題演習をします。
 </aside>
 
---
+---
 
-整数の指数
+## 整数の指数 {style="text-align:left"}
 
 $a\neq 0$，$n$は正の整数とするとき {.fragment fade-in}
 
@@ -50,6 +50,14 @@ $a\neq 0$，$n$は正の整数とするとき {.fragment fade-in}
 
 --
 
+## 問題演習・解説1
+
+--
+
+3TRIAL 299
+
+---
+
 ## 指数法則
 
 $a,b\neq0$，$m,n$は整数とする{.fragment .fade-in} 
@@ -69,17 +77,12 @@ $a,b\neq0$，$m,n$は整数とする{.fragment .fade-in}
 3つめ。
 </aside>
 
----
-
-## 問題演習・解説
 
 --
 
-問題1
+## 問題演習・解説2
 
---
-
-問題2
+3TRIAL 300
 
 ---
 
@@ -96,6 +99,12 @@ $a,b\neq0$，$m,n$は整数とする{.fragment .fade-in}
 
 --
 
+## 問題演習・解説3
+
+3TRIAL 302，303
+
+---
+
 ## 累乗根の性質
 
 $a>0$，$b>0$で，$m$，$n$は正の整数 {.fragment .fade-in}
@@ -106,17 +115,11 @@ $a>0$，$b>0$で，$m$，$n$は正の整数 {.fragment .fade-in}
 1. $\sqrt[m]{\sqrt[n]{a}}=\sqrt[mn]{a}$ {.fragment fade-in}
 
 
----
-
-## 問題演習・解説
-
 --
 
-### 問題1
+## 問題演習・解説4
 
---
-
-### 問題2
+3TRIAL 304
 
 ---
 
@@ -144,7 +147,7 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 1. $(ab)^r=a^rb^r${.fragment fade-up}
 
----
+--
 
-## 問題演習・解説 {style="text-align:left"}
+## 問題演習・解説5
 
