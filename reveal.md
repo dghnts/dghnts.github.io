@@ -200,9 +200,8 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 <span class="fragment">例題 </span>
 
-<span class="fragment">$3^{\frac{1}{3}}$</span>
-<span class=fragment> $=$ </span>
-<span class=fragment> $\sqrt[3]{3^1}$ </span>
+<span class="fragment">$3^{\frac{1}{3}}=$</span>
+<span class=fragment> $\sqrt[3]{3^1}=$ </span>
 <span class=fragment> $\sqrt[3]{3}$ </span>
 
 --
@@ -221,8 +220,8 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 305(3) {.fragment fade-in}
 
 <sapn class="fragment">$4^{-\frac{1}{5}}=$</span>
-<span class="fragment">$\dfrac{1}{4^{\frac{1}{5}}}$</span>
-<span class="fragment">$\dfrac{1}{\sqrt[5]{4^1}}$</span>
+<span class="fragment">$\dfrac{1}{4^{\frac{1}{5}}}=$</span>
+<span class="fragment">$\dfrac{1}{\sqrt[5]{4^1}}=$</span>
 <span class="fragment">$\dfrac{1}{\sqrt[5]{4}}$</span>
 
 --
@@ -255,6 +254,8 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 --
 
+<!-- 5問目 -->
+
 305(2){.fragment fade-in style="text-align:left"}
 
 <span class="fragment">$(2^{-\frac{6}{5}})^\frac{5}{3}=$</span>
@@ -264,6 +265,8 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 <span class="fragment">$\dfrac{1}{4}$ </span>
 
 --
+
+<!-- 6問目 -->
 
 305(4){.fragment fade-in style="text-align:left"}
 
