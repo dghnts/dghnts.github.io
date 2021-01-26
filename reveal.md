@@ -194,21 +194,87 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 ## 問題演習・解説5
 
-3TRIAL 305(2)，(3),  (5)．306(2)，(4)
+3TRIAL 305(2)，(3),  (5)，306(2)，(4)
+
+305(2){.fragment fade-in}
+
+<span class="fragment">例題 </span>
+
+<span class="fragment">$3^{\frac{1}{3}}$</span>
+<span class=fragment> $=$ </span>
+<span class=fragment> $\sqrt[3]{3^1}$ </span>
+<span class=fragment> $\sqrt[3]{3}$ </span>
 
 --
 
 <!-- 2問目 -->
 
+305(2) {.fragment fade-in}
+
+<span class="fragment">$7^{\frac{2}{3}}=$ </span>
+<span class="fragment">$\sqrt[3]{7^2}$</span>
+
 --
 
 <!-- 3問目 -->
+
+305(3) {.fragment fade-in}
+
+<sapn class="fragment">$4^{-\frac{1}{5}}=$</span>
+<span class="fragment">$\dfrac{1}{4^{\frac{1}{5}}}$</span>
+<span class="fragment">$\dfrac{1}{\sqrt[5]{4^1}}$</span>
+<span class="fragment">$\dfrac{1}{\sqrt[5]{4}}$</span>
 
 --
 
 <!-- 4問目 -->
 
+305(8)
+
+<span class="fragment">$9^{\frac{3}{2}}=$</span>
+<span class="fragment">$\sqrt{9^3}=$</span>
+<span class="fragment">$(\sqrt{9})^3=$</span>
+<span class="fragment">$3^3=$</span>
+<span class="fragment">$27$</span>
+
+
+--
+
+<!-- 例題　-->
+
+例題 {.fragment fade-in style="text-align:left"}
+
+305(1){.fragment fade-in style="text-align:left"}
+
+
+<span class="fragment">$(9^{\frac{3}{4}})^\frac{2}{3}=$</span>
+<span class="fragment">$9^{\frac{3}{4}\times \frac{2}{3}}=$</span>
+<span class="fragment">$9^{\frac{1}{2}}=$</span>
+<span class="fragment">$\sqrt{9}=$</span>
+<span class="fragment">$3$</span>
+
+--
+
+305(2){.fragment fade-in style="text-align:left"}
+
+<span class="fragment">$(2^{-\frac{6}{5}})^\frac{5}{3}=$</span>
+<span class="fragment">$2^{-\frac{6}{5}\times \frac{5}{3}}=$</span>
+<span class="fragment">$2^{-2}=$</span>
+<span class="fragment">$\dfrac{1}{2^2}=$ </span>
+<span class="fragment">$\dfrac{1}{4}$ </span>
+
+--
+
+305(4){.fragment fade-in style="text-align:left"}
+
+<span class="fragment"> $2^{\frac{5}{6}}\times 2^{-\frac{1}{2}}\div 2^\frac{1}{3}=$</span>
+<span class="fragment"> $2^{\frac{5}{6}-\frac{1}{2}-\frac{1}{3}}=$</span>
+<span class="fragment"> $2^{\frac{5-3-2}{6}}=$</span>
+<span class="fragment"> $0$</span>
+
 ---
+
+
 
 ## 指数関数 {style="text-align:left}
 
