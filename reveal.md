@@ -56,6 +56,15 @@ $a\neq 0$，$n$は正の整数とするとき {.fragment fade-in}
 
 3TRIAL 299(1)～(5)
 
+--
+
+--
+
+--
+
+--
+
+
 ---
 
 ## 指数法則
@@ -84,6 +93,13 @@ $a,b\neq0$，$m,n$は整数とする{.fragment .fade-in}
 
 3TRIAL 300(1)～(4)
 
+--
+
+--
+
+--
+
+
 ---
 
 ## 累乗根
@@ -105,6 +121,17 @@ $a,b\neq0$，$m,n$は整数とする{.fragment .fade-in}
 
 3TRIAL 302，303(2),(3)
 
+--
+<!-- 2問目-->
+
+--
+
+<!-- 3問目 -->
+
+--
+
+<!-- 4問目　-->
+
 ---
 
 ## 累乗根の性質
@@ -122,6 +149,20 @@ $a>0$，$b>0$で，$m$，$n$は正の整数 {.fragment .fade-in}
 ## 問題演習・解説4
 
 3TRIAL 304(2),(4),(5),(8)
+
+<!-- 1問目　-->
+
+--
+
+<!-- 2問目 -->
+
+-- 
+
+<!-- 3問目 -->
+
+--
+
+<!-- 4問目 -->
 
 ---
 
@@ -155,6 +196,17 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 3TRIAL 305(2)，(3),  (5)．306(2)，(4)
 
+--
+
+<!-- 2問目 -->
+
+--
+
+<!-- 3問目 -->
+
+--
+
+<!-- 4問目 -->
 
 ---
 
@@ -165,3 +217,11 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 <span class=fragment>$y=a^x\cdots$</span> 
 <span class=fragment style="color:red">指数関数</span>
+
+--
+
+## 指数関数の特徴 {style="text-align:left"}
+
+1. $y$は常に正（$y$は-つかない）{.fragment fade-in}
+2. $a>1\Rightarrow $<span style="color:red">右上がりなグラフ</span> {.fragment fade-in}
+3. 点(0,1)，(1,$a$)を通る　{.fragment fade-in}
