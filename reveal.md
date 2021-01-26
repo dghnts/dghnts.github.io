@@ -155,4 +155,10 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 ---
 
+## 指数関数 {style="text-align:left}
 
+<span class=fragment>$a\cdots$</span>
+<span class=fragment style="color:red">0でない正の整数</span>
+
+<span class=fragment>$y=a^x\cdots$</span> 
+<span class=fragment style="color:red">指数関数</span>
