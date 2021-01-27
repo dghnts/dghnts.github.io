@@ -278,25 +278,52 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 <span class="fragment"> $2^{\frac{5}{6}}\times 2^{-\frac{1}{2}}\div 2^\frac{1}{3}=$</span>
 <span class="fragment"> $2^{\frac{5}{6}-\frac{1}{2}-\frac{1}{3}}=$</span>
 <span class="fragment"> $2^{\frac{5-3-2}{6}}=$</span>
-<span class="fragment"> $2^{0}=$</span>
 <span class="fragment"> $1$</span>
 
 ---
 
 
-
-## 指数関数 {style="text-align:left}
-
-<span class=fragment>$a\cdots$</span>
-<span class=fragment style="color:red">0でない正の整数</span>
-
-<span class=fragment>$y=a^x\cdots$</span> 
-<span class=fragment style="color:red">指数関数</span>
+## 指数の大小関係
 
 --
 
-## 指数関数の特徴 {style="text-align:left"}
+### ポイント {.fragment style="text-align:left"}
 
-1. $y$は常に正（$y$は-つかない）{.fragment fade-in}
-2. $a>1\Rightarrow $<span style="color:red">右上がりなグラフ</span> {.fragment fade-in}
-3. 点(0,1)，(1,$a$)を通る　{.fragment fade-in}
+<br />
+
+
+<span class="fragment">底が1より大きい</span>
+<br />
+<span class="fragment">$\Rightarrow$</span>
+<span class="fragment">指数が大きくなると数も<span style="color:red">大きくなる</span></span>
+
+<br />
+<span class="fragment">底が1より小さい</span>
+<br />
+<span class="fragment">$\Rightarrow$</span>
+<span class="fragment">指数が大きくなると数は<span style="color:blue">小さく</span>なる</span>
+
+
+--
+
+
+例題 {.fragment fade-in style="text-align:left"}
+
+次の数の大小を不等号を用いて表せ。 {.fragment style="text-align:left"}
+
+$$\sqrt{2}，\sqrt[3]{4}，\sqrt[5]{8}$$ {.fragment}
+
+(解) {.fragment style="text-align:left"}
+
+<span class="fragment">$\sqrt{2}=2^{\frac{1}{2}}$,</span>
+<span class="fragment">$\sqrt[3]{4}=\sqrt[3]{2^2}=2^{\frac{2}{3}},$</span>
+<span class="fragment">$\sqrt[5]{8}=\sqrt[5]{2^3}=2^{\frac{3}{5}}$ </span>
+
+<span class="fragment">指数の大小を比べると</span>
+<span class="fragment">$\frac{1}{2}<\frac{3}{5}<\frac{2}{3}$
+<br />
+<span class="fragment">底$2$は1より大きいから </span>
+<span class="fragment">$2^{\frac{1}{2}}<2^{\frac{3}{5}}<2^{\frac{2}{3}}$</span>
+
+
+すなわち$\sqrt{2}<\sqrt[5]{8}<\sqrt[3]{4}$ {.fragment}
