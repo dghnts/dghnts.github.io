@@ -417,8 +417,6 @@ $2^x<16$
  <span class="fragment">両辺の指数を比べて</span>
  <span class=fragment>$2x<3$</span> {.fragment}
 
-3. 2.の不等式を解いて$x<\dfrac{3}{2}$ {.fragment}
-
 --
 
 <!-- 問題解説1 -->
