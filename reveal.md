@@ -106,14 +106,18 @@ $a,b\neq0$，$m,n$は整数とする{.fragment .fade-in}
 
 <div class="fragment fade-in"style="text-align:left">$a>0$，$n$を正の整数とする</div>
 
-<div class="fragment fade-in" style="text-align:left">$\sqrt{a}\cdots$$n$回かけると$a$になるような正の数
+
+<div class="fragment fade-in" style="text-align:left">
+$a$の$n$乗根$\cdots$$n$個かけると$a$になるような数
+</div>
+<div class="fragment fade-in" style="text-align:left">$\sqrt[n]{a}\cdots$$n$個かけると$a$になるような正の数
 </div>
 
 <div class="fragment fade-in" style="text-align:left">
 ※$n=2$のときは$\sqrt{a}$とかく
 </div>
 
-注：$(\sqrt[n]{a})^n2=a$，$\sqrt[n]{a^n}=a$ {.fragment .fade-in}
+注：$(\sqrt[n]{a})^n=a$，$\sqrt[n]{a^n}=a$ {.fragment .fade-in}
 
 --
 
@@ -122,6 +126,7 @@ $a,b\neq0$，$m,n$は整数とする{.fragment .fade-in}
 3TRIAL 302，303(2),(3)
 
 --
+
 <!-- 2問目-->
 
 --
@@ -196,9 +201,9 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 3TRIAL 305(2)，(3),  (5)，306(2)，(4)
 
-305(2){.fragment fade-in}
+例題 {.fragment fade-in style="text-align:left"}
 
-<span class="fragment">例題 </span>
+305(1){.fragment fade-in style="text-align:left"}
 
 <span class="fragment">$3^{\frac{1}{3}}=$</span>
 <span class=fragment> $\sqrt[3]{3^1}=$ </span>
@@ -208,7 +213,7 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 <!-- 2問目 -->
 
-305(2) {.fragment fade-in}
+305(2) {.fragment fade-in style="text-align:left"}
 
 <span class="fragment">$7^{\frac{2}{3}}=$ </span>
 <span class="fragment">$\sqrt[3]{7^2}$</span>
@@ -217,7 +222,7 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 <!-- 3問目 -->
 
-305(3) {.fragment fade-in}
+305(3) {.fragment fade-in style="text-align:left"}
 
 <sapn class="fragment">$4^{-\frac{1}{5}}=$</span>
 <span class="fragment">$\dfrac{1}{4^{\frac{1}{5}}}=$</span>
@@ -228,7 +233,7 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 <!-- 4問目 -->
 
-305(8)
+305(5) {.fragment fade-in style="text-align:left"}
 
 <span class="fragment">$9^{\frac{3}{2}}=$</span>
 <span class="fragment">$\sqrt{9^3}=$</span>
@@ -243,7 +248,7 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 例題 {.fragment fade-in style="text-align:left"}
 
-305(1){.fragment fade-in style="text-align:left"}
+306(1){.fragment fade-in style="text-align:left"}
 
 
 <span class="fragment">$(9^{\frac{3}{4}})^\frac{2}{3}=$</span>
@@ -256,7 +261,7 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 <!-- 5問目 -->
 
-305(2){.fragment fade-in style="text-align:left"}
+306(2){.fragment fade-in style="text-align:left"}
 
 <span class="fragment">$(2^{-\frac{6}{5}})^\frac{5}{3}=$</span>
 <span class="fragment">$2^{-\frac{6}{5}\times \frac{5}{3}}=$</span>
@@ -268,12 +273,13 @@ $a,b\neq0$，$r,a$は有理数とする{.fragment .fade-in}
 
 <!-- 6問目 -->
 
-305(4){.fragment fade-in style="text-align:left"}
+306(4){.fragment fade-in style="text-align:left"}
 
 <span class="fragment"> $2^{\frac{5}{6}}\times 2^{-\frac{1}{2}}\div 2^\frac{1}{3}=$</span>
 <span class="fragment"> $2^{\frac{5}{6}-\frac{1}{2}-\frac{1}{3}}=$</span>
 <span class="fragment"> $2^{\frac{5-3-2}{6}}=$</span>
-<span class="fragment"> $0$</span>
+<span class="fragment"> $2^{0}=$</span>
+<span class="fragment"> $1$</span>
 
 ---
 
