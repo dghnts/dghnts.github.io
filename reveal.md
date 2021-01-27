@@ -407,9 +407,6 @@ $2^x<16$
 --
 
 ## 例題1 {style="text-align:left"}
-
-$\left(\dfrac{1}{9}\right)^x<\dfrac{1}{27}$
-
 1. <span class="fragment">$\left(\dfrac{1}{9}\right)^x=\left(\dfrac{1}{3}\right)^{2x}$</span><span class="fragment">$,\dfrac{1}{27}=\left(\dfrac{1}{3}\right)^3$</span>
 <br />
 <span class="fragment">よって，</span>
