@@ -327,3 +327,106 @@ $$\sqrt{2}，\sqrt[3]{4}，\sqrt[5]{8}$$ {.fragment}
 
 
 すなわち$\sqrt{2}<\sqrt[5]{8}<\sqrt[3]{4}$ {.fragment}
+
+--
+
+
+<!-- 問題解説1 -->
+
+
+--
+
+
+<!-- 問題解説2 -->
+
+
+---
+
+## 指数方程式 {style="text-align:left"}
+
+
+<br />
+
+#### （解き方） {.fragment style="text-align:left" }
+
+1. 底をそろえる {.fragment style="text-align:left"}
+2. 指数の部分を比較して方程式を立てる {.fragment style="text-align:left"}
+3. 2.の方程式を解く {.fragment style="text-align:left"}
+
+--
+
+## 例題 {style="text-align:left"}
+
+$8^x=4$
+
+1. <span class="fragment">$8^x=(2^3)^x=2^{3x}$,</span><span class=fragment>$4=2^2$</span>
+<br />
+<span class="fragment">よって，</span>
+<span class="fragment"> $2^{3x}=2^2$</span> {.fragment}
+
+2. <span class="fragment">両辺の指数を比べて</span><span class=fragment>$3x=2$</span> {.fragment}
+
+3. 2.の方程式を解いて，$x=\dfrac{2}{3}$ {.fragment}
+
+--
+
+<!-- 問題解説1 -->
+
+--
+
+<!-- 問題解説2 -->
+
+---
+
+## 指数不等式 {style="text-align:left"}
+
+
+<br />
+
+#### （解き方） {.fragment style="text-align:left" }
+
+1. 底をそろえる {.fragment style="text-align:left"}
+2. 指数の部分を比較して不等式を立てる
+   <br />
+   <span style="color:red">（底の数字に注意）</span> {.fragment style="text-align:left"}
+3. 2.の不等式を解く {.fragment style="text-align:left"}
+
+--
+
+## 例題1 {style="text-align:left"}
+
+$2^x<16$
+
+1. <span class="fragment">$16=2^4$</span>
+<br />
+<span class="fragment">よって，</span>
+<span class="fragment"> $2^x<2^4$</span> {.fragment}
+
+1. <span class="fragment">両辺の指数を比べて</span><span class=fragment>$x<4$</span> {.fragment}
+
+--
+
+## 例題1 {style="text-align:left"}
+
+$\left(\dfrac{1}{9}\right)^x<\dfrac{1}{27}$
+
+1. <span class="fragment">$\left(\dfrac{1}{9}\right)^x=\left(\dfrac{1}{3^2}\right)^x=\left(\dfrac{1}{3}\right)^{2x}$</span>
+ <span class="fragment">$,\dfrac{1}{27}=\left(\dfrac{1}{3}\right)^3$</span>
+<br />
+<span class="fragment">よって，</span>
+<span class="fragment"> $\left(\dfrac{1}{3}\right)^{2x}<\left(\dfrac{1}{3}\right)^3$</span> {.fragment}
+
+
+1.  <span class="fragment" style="color:red">底$\dfrac{1}{3}$は1より小さいから</span>
+ <span class="fragment">両辺の指数を比べて</span>
+ <span class=fragment>$2x<3$</span> {.fragment}
+
+3. 2.の不等式を解いて$x<\dfrac{3}{2}$ {.fragment}
+
+--
+
+<!-- 問題解説1 -->
+
+--
+
+<!-- 問題解説2 -->
