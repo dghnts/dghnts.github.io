@@ -1,0 +1,37 @@
+ol {
+  list-style: none;
+}
+
+ol li {
+  counter-increment: cnt;
+}
+
+ol li::before {
+  content: "第" counter(cnt) "輪．";
+}
+
+#title {
+  margin: 0px;
+  padding: 0px;
+  background-color: gray;
+  color: white;
+}
+
+.index {
+  color: black;
+  width: 200px;
+  height: fit-content;
+  margin: auto;
+  background-color: blanchedalmond;
+}
+
+body {
+  margin: 0px;
+  background-image: url("../../img/senkouhanabi.jpg");
+}
+
+main {
+  color: white;
+  opacity: 0.8;
+  padding: 8px 16px;
+}
