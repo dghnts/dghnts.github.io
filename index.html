@@ -3,57 +3,79 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name=”viewport” content=”width=device-width,initial-scale=1″>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>気まぐれな物書き屋さん</title>
-    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="stylesheet" href="stylesheet/style.css">
+    <!-- **********************************************************bootstrap cssの読み込み -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <!-- **********************************************************bootstrap javascriptの読み込み -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous" defer></script>
 </head>
 
-<body link="lime" vlink="aqua" alink="azure">
+<body>
+    <!-- ナビゲーション開始 -->
     <header>
-        <nav id="nav">
-            <ul>
-                <li><a href="sub/about_us/about_us.html">私達について</a></li>
-                <li><a href="sub/main/main.html">君と私の物語</a></li>
-                <li><a href="#">Kamoの部屋</a></li>
-                <li><a href="#">Yukiの部屋</a></li>
-                <li><a href="#">リクエストボックス</a></li>
-            </ul>
+        <nav class="navbar navbar-expand-md bg-dark" data-bs-theme="dark">
+            <div class="container-fluid">
+                <!--　ページタイトル -->
+                <span class="navbar-brand mb-0 h1">気まぐれな物書き屋さん</span>
+                
+                <!--　画面サイズに応じて表示/非表示を変更できるtoggleを設定 -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- toggleの中身を設定-->
+                <div class="navbar-collapse nav-underline justify-content-end" id="navbarToggle">
+                    <a class="p-2 m-2 nav-link active" aria-current="page" href="sub/about_us/about_us.html">
+                        私達について
+                    </a>
+                    <a class="p-2 m-2 nav-link nav_link" href="sub/main/main.html">
+                        君と私の物語
+                    </a>
+                    <a class="p-2 m-2 nav-link nav_link" href="#">
+                        Kamoの部屋
+                    </a>
+                    <a class="p-2 m-2 nav-link nav_link" href="#">
+                        Yukiの部屋
+                    </a>
+                    <a class="p-2 m-2 nav-link nav_link" href="#">
+                        リクエストボックス
+                    </a>
+                </div>
+            </div>
         </nav>
-        <!-- ハンバーガーボタン -->
-        <div id="hamburger">
-            <!-- 1番上の線 -->
-            <span class="inner_line" id="line1"></span>
-            <!-- 真ん中の線 -->
-            <span class="inner_line" id="line2"></span>
-            <!-- 1番下の線 -->
-            <span class="inner_line" id="line3"></span>
-        </div>
-        <h1 class="title">気まぐれな物書き屋さん</h1>
     </header>
     <main>
-        <div id="aku">
-            <h2>Kamoの部屋</h2>
-            <ol>
-                <li><a href="sub/aku/senkouhanabi/main.html">永遠の線香花火</a></li>
-                <li><a href="sub/aku/kanmidokoro.html">甘味処</a></li>
-                <li><a href="sub/aku/syokujidokoro/main.html">食事処</a></li>
-                <li><a href="sub/aku/kimagure.html">気まぐれな君は今日も僕を振りまわす</a></li>
-                <li><a href="sub/aku/true_or_lie.html">True or Lie</a></li>
-                <li><a href="sub/aku/remember.html">忘れられない君との物語</a></li>
-                <li><a href="sub/aku/shiranaiwatashi.html">私の知らない私</a></li>
-                <li><a href="sub/aku/Iloveforever.html">ずっと好きだよ</a></li>
-            </ol>
-        </div>
-        <div id="tsukami">
-            <h2>Yukiの部屋</h2>
-            <ol>
-                <li><a href="sub/tsukami/nanashi.html">名前はまだない</a></li>
-                <li><a href="sub/tsukami/florist.html">florist</a></li>
-                <li><a href="sub/tsukami/no_start.html">もう何も始まらない物語</a></li>
-                <li><a href="sub/tsukami/harapeko.html">はらぺこみのむし</a></li>
-                <li><a href="sub/tuskami/kasane.html">かさねの色目</a></li>
-            </ol>
-        </div>
+        <section id="list_story">
+            <div class="container">
+                <div class="row">
+                    <div id="aku" class="col-lg-6 img-fluid">
+                        <h2>Kamoの部屋</h2>
+                        <ol>
+                            <li><a href="sub/aku/senkouhanabi/main.html">永遠の線香花火</a></li>
+                            <li><a href="sub/aku/kanmidokoro.html">甘味処</a></li>
+                            <li><a href="sub/aku/syokujidokoro/main.html">食事処</a></li>
+                            <li><a href="sub/aku/kimagure.html">気まぐれな君は今日も僕を振りまわす</a></li>
+                            <li><a href="sub/aku/true_or_lie.html">True or Lie</a></li>
+                            <li><a href="sub/aku/remember.html">忘れられない君との物語</a></li>
+                            <li><a href="sub/aku/shiranaiwatashi.html">私の知らない私</a></li>
+                            <li><a href="sub/aku/Iloveforever.html">ずっと好きだよ</a></li>
+                        </ol>
+                    </div>
+                    <div id="tsukami" class="col-lg-6">
+                        <h2>Yukiの部屋</h2>
+                            <ol>
+                            <li><a href="sub/tsukami/nanashi.html">名前はまだない</a></li>
+                            <li><a href="sub/tsukami/florist.html">florist</a></li>
+                            <li><a href="sub/tsukami/no_start.html">もう何も始まらない物語</a></li>
+                            <li><a href="sub/tsukami/harapeko.html">はらぺこみのむし</a></li>
+                            <li><a href="sub/tuskami/kasane.html">かさねの色目</a></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
     <footer>
         お知らせ
@@ -68,6 +90,4 @@
         </div>
     </footer>
 </body>
-<script src="src/js/hamburger.js"></script>
-
 </html>
